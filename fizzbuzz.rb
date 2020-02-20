@@ -9,7 +9,7 @@ def fizzbuzz(int)
 end
 
 def fizzbuzz(int)
-  if int % 5 == 0 # if the number int is divisible by 3
-    "Buzz" # Go fizz
+  if int % 5 == 0 
+    "Buzz" 
   end
 end
